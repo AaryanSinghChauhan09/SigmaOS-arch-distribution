@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-arch-distribution"
+name = "SigmaOS-distribution"
 tier = 2
 stability = "scaffold"
 language = "rust"
